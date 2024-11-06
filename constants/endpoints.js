@@ -1,0 +1,17 @@
+export const LOGIN = '/auth/local';
+export const FORGOT_PASSWORD = '/user/forgetPassword';
+export const RESET_PASSWORD = '/user/resetPassword';
+export const CHANGE_PASSWORD = '/auth/change-password';
+export const PROJECTS = '/projects';
+export const PROJECTS_CARDS = '/project-cards';
+export const DASHBOARD_CARDS = '/dashboard-cards';
+export const USERS = '/users';
+export const FORM = '/form';
+export const SUB_FORM = '/sub-form';
+export const FORM_TEMPLATE = '/template';
+export const GROUP = '/groups';
+export const LINK_SUBFORM = '/form-sub-form';
+export const FORM_SETTINGS = '/form-settings';
+export const DASHBOARD = '/dashboard';
+export const SEND_MAIL = '/forms-emails';
+export const FILL_FORM = '/forms-fields-values';
